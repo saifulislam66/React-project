@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #111;
+  color: #fff;
+}
+
+button {
+  padding: 10px 20px;
+  background: #c14d4d;
+}
+
+#tasklist::-webkit-scrollbar {
+  display: none;
+}
