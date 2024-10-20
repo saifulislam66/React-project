@@ -7,7 +7,7 @@ function AdminDashboard() {
       <Head />
 
       <div className="bg-zinc-600   w-full h-screen">
-        <form className=" max-w-[500px] mx-auto flex   flex-col bg-red-400 ">
+        <form className=" max-w-[500px] mx-auto flex   flex-col bg-blue-400 ">
           <div>
             <h2>Task Title</h2>
             <input type="text" placeholder="Make a task" />
